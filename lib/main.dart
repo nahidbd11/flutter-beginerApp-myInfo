@@ -16,7 +16,7 @@ class MyInfoApp extends StatelessWidget {
       backgroundColor: Colors.black87,
       appBar: AppBar(
         title: const Text(
-          "Nahid's info is here",
+          "Nahid's info ",
           style: TextStyle(
             letterSpacing: 2,
           ),
