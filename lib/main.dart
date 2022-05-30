@@ -15,12 +15,6 @@ class MyInfoApp extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.black87,
       appBar: AppBar(
-        title: const Text(
-          "Nahid's info is here",
-          style: TextStyle(
-            letterSpacing: 2,
-          ),
-        ),
         elevation: 0,
         backgroundColor: Color.fromARGB(255, 24, 22, 22),
         centerTitle: true,
